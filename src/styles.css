@@ -152,7 +152,7 @@ input[type="checkbox"]:checked + label {
   animation: move 0.4s ease forwards;
 }
 
-/*
+
 @keyframes move {
   50% {
     padding-left: 8px;
@@ -163,7 +163,7 @@ input[type="checkbox"]:checked + label {
     padding-right: 4px;
   }
 }
-*/
+
 #checklist label {
   cursor: pointer;
 }
